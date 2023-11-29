@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#ffcc0000" android:state_enabled="false"/> <!-- red for rejected -->
+    <item android:color="#ff669900" android:state_checked="true"/> <!-- green for completed -->
+    <item android:color="#ff0099cc"/> <!-- default blue for in progress -->
+</selector>
